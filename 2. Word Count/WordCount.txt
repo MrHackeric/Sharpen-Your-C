@@ -1,0 +1,18 @@
+Implement a Word Count Program
+
+Description:
+Create a command-line program in C that counts the number of words, lines, and characters in a text file. The program should take the filename as input and output the counts.
+
+Steps:
+
+1. Reading the File:
+Open the specified text file for reading.
+
+2. Counting Words, Lines, and Characters:
+Implement functions to count:
+Words: Any sequence of characters separated by whitespace.
+Lines: Each line break (newline character).
+Characters: Total number of characters including spaces, tabs, and newline characters.
+
+3. Displaying the Counts:
+Print the counts of words, lines, and characters to the console.

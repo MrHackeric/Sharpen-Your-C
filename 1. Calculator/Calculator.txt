@@ -1,0 +1,18 @@
+Simple Calculator
+
+Description:
+Create a command-line calculator that can perform basic arithmetic operations: addition, subtraction, multiplication, and division. The calculator should take a mathematical expression as input and output the result.
+
+Steps:
+
+1. Reading User Input:
+Prompt the user to enter a mathematical expression (e. g., "3 + 4", "10 / 2").
+
+2. Parsing the Expression:
+Parse the input to extract the operands and the operator.
+
+3. Performing the Calculation:
+Perform the calculation based on the operator and the operands.
+
+4. Displaying the Result:
+Print the result of the calculation.

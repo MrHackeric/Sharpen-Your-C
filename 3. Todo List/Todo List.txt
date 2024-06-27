@@ -1,0 +1,15 @@
+Implement a Simple To-Do List
+
+Description:
+Create a command-line program that manages a simple to-do list. The program should support adding tasks, viewing tasks, marking tasks as completed, and deleting tasks.
+
+Detailed Steps:
+
+1. Define Data Structures:
+Use a struct to represent a task with attributes such as task description and completion status.
+
+2. User Interface:
+Implement a menu system to interact with the user and perform operations like adding, viewing, completing, and deleting tasks.
+
+3. Task Management Functions:
+Implement functions to handle each operation on the to-do list.

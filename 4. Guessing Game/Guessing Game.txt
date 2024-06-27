@@ -1,0 +1,19 @@
+Guessing Game
+
+Description:
+
+Create a command-line program in C that implements a simple number guessing game. The program should randomly select a number between 1 and 100, and the user should have multiple attempts to guess the number. After each guess, the program provides feedback indicating whether the guess is too low, too high, or correct. The game continues until the user guesses the number correctly.
+
+Steps:
+
+1. Generate a Random Number:
+Use the `rand()` function to generate a random number between 1 and 100.
+
+2. User Interaction:
+Prompt the user to enter a guess.
+Compare the guess to the generated number and provide feedback.
+
+3. Game Loop:
+Repeat the process until the user guesses the correct number.
+Keep track of the number of attempts.
+
